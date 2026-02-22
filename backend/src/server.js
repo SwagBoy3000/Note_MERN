@@ -10,7 +10,7 @@ const PORT = process.env.PORT
 
 app.use("/api/note", notesRouter);
 
-connectDB;
+connectDB();
 
 app.listen(PORT, () =>{
     console.log("port ", PORT);
