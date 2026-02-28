@@ -1,0 +1,21 @@
+{
+  "name": "mern-note-app",
+  "version": "1.0.0",
+  "description": "> *A full-stack note-taking application built with MongoDB, Express, React, and Node.js. Create, edit, delete, and manage your notes with a clean REST API.*",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwagBoy3000/Note_MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SwagBoy3000/Note_MERN/issues"
+  },
+  "homepage": "https://github.com/SwagBoy3000/Note_MERN#readme"
+}
